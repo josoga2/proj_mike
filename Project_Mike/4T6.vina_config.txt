@@ -1,0 +1,9 @@
+receptor = /home/michael/receptor.5bms.pdbqt
+ligand = /home/michael/4T6.pdbqt
+center_x = -34.28
+center_y = 13.17
+center_z = -14.09
+size_x =  22.50
+size_y =  22.50
+size_z =  22.50
+num_modes = 1
